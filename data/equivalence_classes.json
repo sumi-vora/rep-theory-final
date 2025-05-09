@@ -1,0 +1,2218 @@
+[
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "total_count": 12,
+    "valid_count": 12,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        5,
+        5
+      ],
+      [
+        2,
+        6,
+        7,
+        8
+      ],
+      [
+        4,
+        10,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 1
+  },
+  {
+    "weight_vector": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "total_count": 12,
+    "valid_count": 12,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        7,
+        8
+      ],
+      [
+        4,
+        5,
+        9,
+        10
+      ],
+      [
+        6,
+        9,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 2
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 10,
+    "valid_count": 9,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        7
+      ],
+      [
+        3,
+        6,
+        9,
+        10
+      ],
+      [
+        5,
+        8,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        4,
+        5,
+        7
+      ],
+      [
+        2,
+        6,
+        8,
+        9
+      ],
+      [
+        3,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 3
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      2,
+      1
+    ],
+    "total_count": 9,
+    "valid_count": 9,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        6
+      ],
+      [
+        4,
+        5,
+        7,
+        8
+      ],
+      [
+        10,
+        11,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 4
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "total_count": 9,
+    "valid_count": 8,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        5
+      ],
+      [
+        3,
+        8,
+        9,
+        10
+      ],
+      [
+        6,
+        9,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        4,
+        6
+      ],
+      [
+        2,
+        8,
+        9,
+        10
+      ],
+      [
+        5,
+        9,
+        11,
+        12
+      ]
+    ],
+    "id": 5
+  },
+  {
+    "weight_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "total_count": 9,
+    "valid_count": 8,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        2,
+        3,
+        4,
+        7
+      ],
+      [
+        5,
+        6,
+        9,
+        10
+      ],
+      [
+        8,
+        11,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        2,
+        3,
+        4,
+        8
+      ],
+      [
+        5,
+        6,
+        7,
+        11
+      ],
+      [
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 6
+  },
+  {
+    "weight_vector": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "total_count": 9,
+    "valid_count": 7,
+    "invalid_count": 2,
+    "example_tableau_valid": [
+      [
+        1,
+        1,
+        2,
+        7
+      ],
+      [
+        3,
+        4,
+        5,
+        9
+      ],
+      [
+        6,
+        8,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        1,
+        4,
+        5
+      ],
+      [
+        2,
+        3,
+        7,
+        9
+      ],
+      [
+        6,
+        8,
+        10,
+        12
+      ]
+    ],
+    "id": 7
+  },
+  {
+    "weight_vector": [
+      0,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 7,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        2,
+        2,
+        4,
+        6
+      ],
+      [
+        3,
+        7,
+        8,
+        10
+      ],
+      [
+        5,
+        9,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        2,
+        2,
+        3,
+        6
+      ],
+      [
+        4,
+        5,
+        8,
+        10
+      ],
+      [
+        7,
+        9,
+        11,
+        12
+      ]
+    ],
+    "id": 8
+  },
+  {
+    "weight_vector": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 8,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        3,
+        9,
+        11
+      ],
+      [
+        5,
+        8,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 9
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 8,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        7
+      ],
+      [
+        2,
+        5,
+        6,
+        10
+      ],
+      [
+        4,
+        8,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 10
+  },
+  {
+    "weight_vector": [
+      2,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 8,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        1,
+        2,
+        3
+      ],
+      [
+        5,
+        6,
+        8,
+        9
+      ],
+      [
+        7,
+        10,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 11
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 7,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        9
+      ],
+      [
+        2,
+        7,
+        8,
+        11
+      ],
+      [
+        6,
+        8,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        4,
+        9
+      ],
+      [
+        3,
+        6,
+        8,
+        11
+      ],
+      [
+        7,
+        8,
+        10,
+        12
+      ]
+    ],
+    "id": 12
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 7,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        5,
+        6
+      ],
+      [
+        4,
+        7,
+        7,
+        8
+      ],
+      [
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        4,
+        10
+      ],
+      [
+        5,
+        6,
+        8,
+        11
+      ],
+      [
+        7,
+        7,
+        9,
+        12
+      ]
+    ],
+    "id": 13
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "total_count": 8,
+    "valid_count": 6,
+    "invalid_count": 2,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        5,
+        9
+      ],
+      [
+        3,
+        6,
+        7,
+        11
+      ],
+      [
+        8,
+        10,
+        12,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        7,
+        10
+      ],
+      [
+        3,
+        5,
+        8,
+        11
+      ],
+      [
+        6,
+        9,
+        12,
+        12
+      ]
+    ],
+    "id": 14
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 8,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        4,
+        5,
+        6,
+        10
+      ],
+      [
+        7,
+        9,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 15
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 7,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        5,
+        9
+      ],
+      [
+        4,
+        7,
+        8,
+        11
+      ],
+      [
+        6,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        4,
+        6,
+        7
+      ],
+      [
+        2,
+        5,
+        9,
+        9
+      ],
+      [
+        8,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 16
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 8,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        8
+      ],
+      [
+        5,
+        6,
+        8,
+        11
+      ],
+      [
+        7,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 17
+  },
+  {
+    "weight_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 8,
+    "valid_count": 7,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        2,
+        3,
+        6,
+        9
+      ],
+      [
+        4,
+        5,
+        8,
+        11
+      ],
+      [
+        7,
+        7,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        2,
+        4,
+        7,
+        8
+      ],
+      [
+        3,
+        5,
+        9,
+        11
+      ],
+      [
+        6,
+        7,
+        10,
+        12
+      ]
+    ],
+    "id": 18
+  },
+  {
+    "weight_vector": [
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        2,
+        3,
+        4,
+        8
+      ],
+      [
+        3,
+        6,
+        7,
+        11
+      ],
+      [
+        9,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        2,
+        3,
+        6,
+        8
+      ],
+      [
+        3,
+        4,
+        9,
+        9
+      ],
+      [
+        7,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 19
+  },
+  {
+    "weight_vector": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        7
+      ],
+      [
+        2,
+        4,
+        5,
+        11
+      ],
+      [
+        6,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        4,
+        5
+      ],
+      [
+        2,
+        6,
+        9,
+        10
+      ],
+      [
+        3,
+        7,
+        11,
+        12
+      ]
+    ],
+    "id": 20
+  },
+  {
+    "weight_vector": [
+      1,
+      0,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        5,
+        5
+      ],
+      [
+        4,
+        6,
+        7,
+        8
+      ],
+      [
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        4,
+        6,
+        8
+      ],
+      [
+        3,
+        5,
+        7,
+        9
+      ],
+      [
+        5,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 21
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        5,
+        6
+      ],
+      [
+        3,
+        4,
+        7,
+        8
+      ],
+      [
+        6,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      [
+        2,
+        6,
+        6,
+        9
+      ],
+      [
+        7,
+        8,
+        10,
+        12
+      ]
+    ],
+    "id": 22
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        7
+      ],
+      [
+        4,
+        5,
+        5,
+        9
+      ],
+      [
+        6,
+        8,
+        10,
+        11
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        3,
+        9
+      ],
+      [
+        4,
+        5,
+        7,
+        10
+      ],
+      [
+        5,
+        6,
+        8,
+        11
+      ]
+    ],
+    "id": 23
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        3,
+        6
+      ],
+      [
+        2,
+        4,
+        5,
+        10
+      ],
+      [
+        7,
+        8,
+        9,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        4,
+        8
+      ],
+      [
+        2,
+        5,
+        6,
+        10
+      ],
+      [
+        3,
+        7,
+        9,
+        12
+      ]
+    ],
+    "id": 24
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      2
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        6
+      ],
+      [
+        2,
+        5,
+        10,
+        11
+      ],
+      [
+        7,
+        9,
+        12,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        6,
+        7
+      ],
+      [
+        2,
+        4,
+        9,
+        10
+      ],
+      [
+        5,
+        11,
+        12,
+        12
+      ]
+    ],
+    "id": 25
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        9
+      ],
+      [
+        2,
+        6,
+        6,
+        11
+      ],
+      [
+        5,
+        7,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        4,
+        5,
+        6
+      ],
+      [
+        2,
+        6,
+        7,
+        10
+      ],
+      [
+        3,
+        9,
+        11,
+        12
+      ]
+    ],
+    "id": 26
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        7
+      ],
+      [
+        2,
+        5,
+        6,
+        11
+      ],
+      [
+        7,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 27
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        8
+      ],
+      [
+        2,
+        6,
+        7,
+        11
+      ],
+      [
+        5,
+        7,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 28
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6,
+        7,
+        9
+      ],
+      [
+        7,
+        8,
+        10,
+        11
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 29
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        5,
+        9
+      ],
+      [
+        3,
+        4,
+        8,
+        11
+      ],
+      [
+        7,
+        10,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 30
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      2,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 5,
+    "invalid_count": 2,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        7
+      ],
+      [
+        2,
+        5,
+        6,
+        11
+      ],
+      [
+        8,
+        10,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        4,
+        8
+      ],
+      [
+        2,
+        5,
+        10,
+        10
+      ],
+      [
+        6,
+        7,
+        11,
+        12
+      ]
+    ],
+    "id": 31
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      0,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        5,
+        6,
+        8,
+        9
+      ],
+      [
+        7,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        4,
+        6
+      ],
+      [
+        2,
+        5,
+        7,
+        9
+      ],
+      [
+        8,
+        9,
+        10,
+        12
+      ]
+    ],
+    "id": 32
+  },
+  {
+    "weight_vector": [
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 4,
+    "invalid_count": 3,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        5
+      ],
+      [
+        2,
+        5,
+        6,
+        7
+      ],
+      [
+        4,
+        9,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        3,
+        6
+      ],
+      [
+        2,
+        4,
+        5,
+        10
+      ],
+      [
+        5,
+        7,
+        9,
+        12
+      ]
+    ],
+    "id": 33
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        7
+      ],
+      [
+        2,
+        5,
+        9,
+        10
+      ],
+      [
+        4,
+        8,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 34
+  },
+  {
+    "weight_vector": [
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        3,
+        8,
+        10
+      ],
+      [
+        5,
+        7,
+        9,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 35
+  },
+  {
+    "weight_vector": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        1,
+        3,
+        8
+      ],
+      [
+        2,
+        5,
+        6,
+        10
+      ],
+      [
+        4,
+        7,
+        9,
+        11
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        1,
+        3,
+        7
+      ],
+      [
+        2,
+        5,
+        6,
+        8
+      ],
+      [
+        4,
+        9,
+        10,
+        11
+      ]
+    ],
+    "id": 36
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        3,
+        9
+      ],
+      [
+        3,
+        4,
+        5,
+        11
+      ],
+      [
+        7,
+        8,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 37
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        6,
+        7
+      ],
+      [
+        3,
+        4,
+        9,
+        11
+      ],
+      [
+        8,
+        10,
+        12,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        4,
+        6,
+        8
+      ],
+      [
+        2,
+        7,
+        9,
+        10
+      ],
+      [
+        3,
+        11,
+        12,
+        12
+      ]
+    ],
+    "id": 38
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 7,
+    "invalid_count": 0,
+    "example_tableau_valid": [
+      [
+        1,
+        2,
+        4,
+        7
+      ],
+      [
+        3,
+        6,
+        6,
+        11
+      ],
+      [
+        5,
+        8,
+        9,
+        12
+      ]
+    ],
+    "example_tableau_invalid": null,
+    "id": 39
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      2
+    ],
+    "total_count": 7,
+    "valid_count": 5,
+    "invalid_count": 2,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        6,
+        7
+      ],
+      [
+        2,
+        5,
+        9,
+        11
+      ],
+      [
+        4,
+        8,
+        12,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        5,
+        9
+      ],
+      [
+        3,
+        6,
+        8,
+        11
+      ],
+      [
+        4,
+        7,
+        12,
+        12
+      ]
+    ],
+    "id": 40
+  },
+  {
+    "weight_vector": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        6,
+        9
+      ],
+      [
+        4,
+        5,
+        8,
+        11
+      ],
+      [
+        7,
+        7,
+        10,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        3,
+        5,
+        6
+      ],
+      [
+        4,
+        7,
+        8,
+        9
+      ],
+      [
+        7,
+        10,
+        11,
+        12
+      ]
+    ],
+    "id": 41
+  },
+  {
+    "weight_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    "total_count": 7,
+    "valid_count": 6,
+    "invalid_count": 1,
+    "example_tableau_valid": [
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      [
+        2,
+        8,
+        10,
+        11
+      ],
+      [
+        7,
+        9,
+        11,
+        12
+      ]
+    ],
+    "example_tableau_invalid": [
+      [
+        1,
+        2,
+        4,
+        7
+      ],
+      [
+        3,
+        5,
+        10,
+        11
+      ],
+      [
+        8,
+        9,
+        11,
+        12
+      ]
+    ],
+    "id": 42
+  }
+]
